@@ -1,5 +1,5 @@
 .home__hero-section {
-  color: #fff;
+  color: snow;
   padding: 160px 0;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .top-line {
-  color: #f00946;
+  color: red;
   font-size: 16px;
   line-height: 16px;
   font-weight: 700;
@@ -46,15 +46,15 @@
   font-size: 48px;
   line-height: 1.1;
   font-weight: 600;
-  color: #f7f8fa;
+  color: snow;
 }
 
 .dark {
-  color: #1c2237;
+  color: #303030;
 }
 
 .darkBg {
-  background-color: #1c2237;
+  background-color: #303030;
 }
 
 .home__hero-subtitle {
