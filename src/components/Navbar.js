@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import {Link} from 'react-router-dom';
 import {FaBars, FaTimes, FaBus} from 'react-icons/fa';
-import {MdFingerprint} from 'react-icons/md';
 import { Button } from './Button';
 import './Navbar.css';
 import {IconContext} from 'react-icons/lib';
@@ -37,7 +36,7 @@ function Navbar() {
                 <div className="navbar-container container">
                     <Link to='/' className="navbar-logo"  onClick={closeMobileMenu}>
                         <FaBus className="navbar-icon"/>
-                        CoBus
+                        TTC BUS REDESIGN
                     </Link>
 
 
@@ -62,19 +61,7 @@ function Navbar() {
                             </Link>
                         </li>
 
-                        <li className="nav-btn">
-                            {button ? (
-                                <Link to='/sign-up' className='btn-link'>
-                                    <Button buttonStyle = 'btn--outline'>Sign Up</Button>
-                                </Link>
-                            ) : (
-                                <Link to='/sign-up' className='btn-link' onClick={closeMobileMenu}>
-                                    <Button buttonStyle = 'btn--outline' buttonSize = 'btn--mobile'>
-                                        Contact Us
-                                    </Button>
-                                </Link>
-                            )}
-                        </li>
+
 
                     </ul>
 
