@@ -22,7 +22,7 @@ function Navbar() {
                 <div className="navbar-container container">
                     <Link to='/' className="navbar-logo"  onClick={closeMobileMenu}>
                         <FaBus className="navbar-icon"/>
-                        SMART BUS REDESIGN
+                        SMART BUS 
                     </Link>
 
 

@@ -62,7 +62,7 @@ export const homeObjOne = {
     description: 'We designed the bus with integrated AI to assist passengers, in finding seats or designated seating to allow for a safer experience using the bus. Empty Seats will have led pathways leading up to them for the passenger to follow, and safely enter without entering another passenger 2 Feet Radius, cutting the transmission of Covid-19 significantly. ',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: 'images/bus.svg',
+    img: 'images/ai.png',
     alt: ''
   };
   
