@@ -7,7 +7,7 @@ export const homeObjOne = {
     description: 'Our Version of TTC Bus Is Designed To Protect Passengers, Allow Transportation Services While Reducing The Chances Of Catching Covid-19 Virus. The plan for the TTC is designed to incorporate the priority safety guidelines enforced by the Government of Ontario relating to Covid-19 Virus, and the transferability of it.',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: 'images/bus.svg',
+    img: 'images/final.png',
     alt: ''
   };
 
