@@ -36,7 +36,7 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               <FaBus className="navbar-icon"/>
-              TTC Bus Design
+              Smart Bus Design
             </Link>
           </div>
           

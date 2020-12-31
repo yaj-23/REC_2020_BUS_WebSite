@@ -36,7 +36,7 @@ function Navbar() {
                 <div className="navbar-container container">
                     <Link to='/' className="navbar-logo"  onClick={closeMobileMenu}>
                         <FaBus className="navbar-icon"/>
-                        TTC BUS REDESIGN
+                        SMART BUS REDESIGN
                     </Link>
 
 
